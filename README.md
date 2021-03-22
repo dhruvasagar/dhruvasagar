@@ -34,7 +34,7 @@
 * Haskell
 * Vim Script
 
-#### :boom: I'm cuyrrently learning
+#### :boom: I'm currently learning :
 
 * Haskell
 * Rust
