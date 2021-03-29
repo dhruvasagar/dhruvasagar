@@ -13,7 +13,7 @@
 Hi, I am [Dhruva Sagar](https://dhruvasagar.dev). I enjoy building large,
 scalable software with elegant interfaces. I value sound architecture, code
 quality, development best practices and user experience, which are some of the
-key elements software craftsmanship.
+key elements of software craftsmanship.
 
 I am also an open-source enthusisast and maintainer. I have learned a lot from
 open-source and am always in awe of how collaboration between remote strangers
