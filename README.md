@@ -34,19 +34,19 @@ world.
 
 #### :heart: Languages and Tools:
 
-<img align="left" height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png">
-<img align="left" height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/rails/rails.png">
-<img align="left" height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
-<img align="left" height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
-<img align="left" height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
-<img align="left" height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png">
-<img align="left" height=20 style="background-color: white;" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">
-<img align="left" height=20 style="background-color: white;" src="https://raw.githubusercontent.com/github/explore/main/topics/elixir/elixir.png">
-<img align="left" height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/haskell/haskell.png">
-<img align="left" height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/clojure/clojure.png">
-<img align="left" height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png">
-<img align="left" height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png">
-<img align="left" height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png">
+<code><img height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png"></code>
+<code><img height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/rails/rails.png"></code>
+<code><img height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"></code>
+<code><img height=20 style="background-color: white;" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
+<code><img height=20 style="background-color: white;" src="https://raw.githubusercontent.com/github/explore/main/topics/elixir/elixir.png"></code>
+<code><img height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/haskell/haskell.png"></code>
+<code><img height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/clojure/clojure.png"></code>
+<code><img height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
+<code><img height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 
 #### :boom: I'm currently learning :
 
