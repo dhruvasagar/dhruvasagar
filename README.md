@@ -18,7 +18,7 @@ open-source and am always in awe of how collaboration between remote strangers
 who love building software, can create so much value for so many around the
 world.
 
-<img align="right" src="/media/setup.jpg?raw=true" />
+<img align="right" src="/media/setup.jpg?raw=true" width="500" />
 
 * I am a **full-stack** Software Engineer with over 15 years of experience.
 * I love **learning**, **hacking**, **teaching** and **building** software
