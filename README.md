@@ -1,5 +1,3 @@
-# :zap: Dhruva Sagar :zap:
-
 ### Hello! :wave:
 
 <a href="https://twitter.com/intent/follow?screen_name=dhruvasagar"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="22"></a>
@@ -19,6 +17,8 @@ I am also an open-source enthusisast and maintainer. I have learned a lot from
 open-source and am always in awe of how collaboration between remote strangers
 who love building software, can create so much value for so many around the
 world.
+
+<img align="right" src="/media/setup.jpg?raw=true" />
 
 * I am a **full-stack** Software Engineer with over 15 years of experience.
 * I love **learning**, **hacking**, **teaching** and **building** software
