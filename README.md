@@ -40,8 +40,8 @@ world.
 <code><img height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
 <code><img height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
 <code><img height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"></code>
-<code><img height=20 style="background-color: white;" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
-<code><img height=20 style="background-color: white;" src="https://raw.githubusercontent.com/github/explore/main/topics/elixir/elixir.png"></code>
+<code><img height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
+<code><img height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/elixir/elixir.png"></code>
 <code><img height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/haskell/haskell.png"></code>
 <code><img height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/clojure/clojure.png"></code>
 <code><img height=20 src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
