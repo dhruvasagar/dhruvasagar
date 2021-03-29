@@ -60,12 +60,6 @@ If you like what I do, maybe consider buying me a coffee :
 
 #### My Github Stats
 
-<img src="https://github-profile-trophy.vercel.app/?username=dhruvasagar&theme=onedark&column=3&margin-w=15&margin-h=15">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvasagar&theme=tokyonight">
+<img src="https://github-profile-trophy.vercel.app/?username=dhruvasagar&theme=onedark&column=3">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvasagar&theme=tokyonight&hide_border=true">
 <img src="https://github-readme-stats.vercel.app/api?username=dhruvasagar&show_icons=true&hide_border=true&theme=tokyonight">
-
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvasagar&layout=compact&theme=tokyonight">
-
-<img src="https://activity-graph.herokuapp.com/graph?username=dhruvasagar">
