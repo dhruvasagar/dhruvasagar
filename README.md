@@ -50,9 +50,9 @@ world.
 
 #### :boom: I'm currently learning :
 
-* Haskell
-* Rust
-* Substrate (https://substrate.io)
+* [Haskell](https://www.haskell.org)
+* [Rust](https://rust-lang.org)
+* [Substrate](https://substrate.io)
 
 If you like what I do, maybe consider buying me a coffee :
 
