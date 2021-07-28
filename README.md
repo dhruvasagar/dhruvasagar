@@ -27,7 +27,7 @@ world.
   https://www.youtube.com/channel/UCWC5C7O-jpJhHW7sSxu-27A
 * I **still** like competitive programming
 * I love **Linux**!
-* I love **Haskell**!
+* I love **Haskell** & **Rust**!
 * I can be reached at [dhruva.sagar@gmail.com](mailto:dhruva.sagar@gmail.com)
 * :neckbeard: **Pronouns**: [He/Him](https://pronouns.is/he)
 * :zap: **Fun Fact**: I automate everything, I live in the terminal!
