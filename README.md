@@ -62,4 +62,4 @@ If you like what I do, maybe consider buying me a coffee :
 
 <img src="https://github-profile-trophy.vercel.app/?username=dhruvasagar&theme=onedark&column=3">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvasagar&theme=tokyonight&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api?username=dhruvasagar&show_icons=true&hide_border=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvasagar&show_icons=true&hide_border=true&theme=tokyonight">
