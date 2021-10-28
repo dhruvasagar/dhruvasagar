@@ -1,22 +1,22 @@
 ### Hello! :wave:
 
 <a href="https://twitter.com/intent/follow?screen_name=dhruvasagar">
-  <img style="background-color: white; border-radius: 50%; width: 40px; padding: 1px;" src="https://unpkg.com/simple-icons@5.20.0/icons/twitter.svg" width="22">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30">
 </a>
 <a href="https://www.linkedin.com/in/dhruvasagar">
-  <img style="background-color: white; border-radius: 50%; width: 40px;" src="https://unpkg.com/simple-icons@5.20.0/icons/linkedin.svg" width="22">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30">
 </a>
 <a href="mailto:dhruva.sagar@gmail.com">
-  <img style="background-color: white; border-radius: 50%; width: 40px; padding: 1px;" src="https://unpkg.com/simple-icons@5.20.0/icons/gmail.svg" width="22">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30">
 </a>
 <a href="https://www.facebook.com/dhruvasagar.ds">
-  <img style="background-color: white; border-radius: 50%; width: 40px; padding: 1px;" src="https://unpkg.com/simple-icons@5.20.0/icons/facebook.svg" width="22">
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" width="30">
 </a>
 <a href="https://t.me/dhruvasagar">
-  <img style="background-color: white; border-radius: 50%; width: 40px; padding: 1px;" src="https://unpkg.com/simple-icons@5.20.0/icons/telegram.svg" width="22">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30">
 </a>
 <a href="https://www.instagram.com/dhruva.sagar">
-  <img style="background-color: white; border-radius: 50%; width: 40px;" src="https://unpkg.com/simple-icons@5.20.0/icons/instagram.svg" width="22">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30">
 </a>
 ![](http://visitor-badge.glitch.me/badge?page_id=dhruvasagar.dhruvasagar)
 
