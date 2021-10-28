@@ -1,4 +1,4 @@
-### Hello! :wave:
+### Hello! :wave: ![]("http://visitor-badge.glitch.me/badge?page_id=dhruvasagar.dhruvasagar")
 
 <a href="https://twitter.com/intent/follow?screen_name=dhruvasagar">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30">
@@ -18,8 +18,6 @@
 <a href="https://www.instagram.com/dhruva.sagar">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30">
 </a>
-
-<img src="http://visitor-badge.glitch.me/badge?page_id=dhruvasagar.dhruvasagar">
 
 Hi, I am [Dhruva Sagar](https://dhruvasagar.dev). I enjoy building large,
 scalable software with elegant interfaces. I value sound architecture, code
