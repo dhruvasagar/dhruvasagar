@@ -1,11 +1,23 @@
 ### Hello! :wave:
 
-<a href="https://twitter.com/intent/follow?screen_name=dhruvasagar"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="22"></a>
-<a href="https://www.linkedin.com/in/dhruvasagar"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="22"></a>
-<a href="mailto:dhruva.sagar@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/646/646187.svg" width="22"></a>
-<a href="https://www.facebook.com/dhruvasagar.ds"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" width="22"></a>
-<a href="https://t.me/dhruvasagar"><img src="https://www.flaticon.com/svg/static/icons/svg/1532/1532545.svg" width="22"></a>
-<a href="https://www.instagram.com/dhruva.sagar"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" width="22"></a>
+<a href="https://twitter.com/intent/follow?screen_name=dhruvasagar">
+  <img style="background-color: white; border-radius: 50%; width: 40px; padding: 1px;" src="https://unpkg.com/simple-icons@5.20.0/icons/twitter.svg" width="22">
+</a>
+<a href="https://www.linkedin.com/in/dhruvasagar">
+  <img style="background-color: white; border-radius: 50%; width: 40px;" src="https://unpkg.com/simple-icons@5.20.0/icons/linkedin.svg" width="22">
+</a>
+<a href="mailto:dhruva.sagar@gmail.com">
+  <img style="background-color: white; border-radius: 50%; width: 40px; padding: 1px;" src="https://unpkg.com/simple-icons@5.20.0/icons/gmail.svg" width="22">
+</a>
+<a href="https://www.facebook.com/dhruvasagar.ds">
+  <img style="background-color: white; border-radius: 50%; width: 40px; padding: 1px;" src="https://unpkg.com/simple-icons@5.20.0/icons/facebook.svg" width="22">
+</a>
+<a href="https://t.me/dhruvasagar">
+  <img style="background-color: white; border-radius: 50%; width: 40px; padding: 1px;" src="https://unpkg.com/simple-icons@5.20.0/icons/telegram.svg" width="22">
+</a>
+<a href="https://www.instagram.com/dhruva.sagar">
+  <img style="background-color: white; border-radius: 50%; width: 40px;" src="https://unpkg.com/simple-icons@5.20.0/icons/instagram.svg" width="22">
+</a>
 ![](http://visitor-badge.glitch.me/badge?page_id=dhruvasagar.dhruvasagar)
 
 Hi, I am [Dhruva Sagar](https://dhruvasagar.dev). I enjoy building large,
