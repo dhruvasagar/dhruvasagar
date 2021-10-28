@@ -1,4 +1,4 @@
-### Hello! :wave: ![]("http://visitor-badge.glitch.me/badge?page_id=dhruvasagar.dhruvasagar")
+### Hello! :wave: ![](http://visitor-badge.glitch.me/badge?page_id=dhruvasagar.dhruvasagar)
 
 <a href="https://twitter.com/intent/follow?screen_name=dhruvasagar">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30">
