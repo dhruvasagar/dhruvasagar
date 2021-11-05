@@ -39,7 +39,7 @@ world.
 * I **still** like competitive programming
 * I love **Linux**!
 * I love **Haskell** & **Rust**!
-* I can be reached at [dhruva.sagar@gmail.com](mailto:dhruva.sagar@protonmail.com)
+* I can be reached at [dhruva.sagar@protonmail.com](mailto:dhruva.sagar@protonmail.com)
 * :neckbeard: **Pronouns**: [He/Him](https://pronouns.is/he)
 * :zap: **Fun Fact**: I automate everything, I live in the terminal!
 
