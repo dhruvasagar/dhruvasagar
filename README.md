@@ -86,4 +86,4 @@ If you like what I do, maybe consider buying me a coffee :
 |:----------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvasagar&langs_count=10&hide_border=true&theme=midnight-purple&layout=compact) | ![](https://github-readme-stats.vercel.app/api?username=dhruvasagar&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true) |
 
-![](https://activity-graph.herokuapp.com/graph?username=dhruvasagar&theme=github-dark&area=true&color=cecac3)
+![](https://activity-graph.herokuapp.com/graph?username=dhruvasagar&theme=github-dark&area=true&color=cecac3&border_color=30363d)
