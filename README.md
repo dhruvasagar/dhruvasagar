@@ -80,7 +80,7 @@ If you like what I do, maybe consider buying me a coffee :
 - [url-mapper](https://github.com/dhruvasagar/url-mapper) - A simple keyword based url mapper built using Golang
 - [url-mapper-rs](https://github.com/dhruvasagar/url-mapper-rs) - A simple keyword based url mapper built using Rust
 - [rpicctv](https://github.com/dhruvasagar/rpicctv) - RPi CCTV camera with Pan & Tilt JSON API built using Golang
-- [tictactoecubed](https://github.com/dhruvasagar/tictactoecubed) A real-time tic tac toe cubed turn based game built using Javascript
+- [tictactoecubed](https://github.com/dhruvasagar/tictactoecubed) - A real-time tic tac toe cubed turn based game built using Javascript
 
 |                                                                    Language Stats                                                                    |                                                                  Github Stats                                                                  |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
