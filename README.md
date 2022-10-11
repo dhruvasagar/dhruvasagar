@@ -33,10 +33,10 @@ world.
 
 * I am a **full-stack** Software Engineer with over 15 years of experience.
 * I love **learning**, **hacking**, **teaching** and **building** software
-  using cutting edge technologies.
+  using cutting edge and open source technologies.
 * I run a **youtube** channel :
   https://www.youtube.com/channel/UCWC5C7O-jpJhHW7sSxu-27A
-* I **still** like competitive programming
+* I like competitive programming
 * I love **Linux**!
 * I love **Haskell** & **Rust**!
 * I can be reached at [dhruva.sagar@protonmail.com](mailto:dhruva.sagar@protonmail.com)
@@ -69,8 +69,21 @@ If you like what I do, maybe consider buying me a coffee :
 
 <a href="https://www.buymeacoffee.com/dhruvasagar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-#### My Github Stats
+### Projects
 
-<img src="https://github-profile-trophy.vercel.app/?username=dhruvasagar&theme=onedark&column=3">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvasagar&theme=tokyonight&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvasagar&show_icons=true&hide_border=true&theme=tokyonight">
+- [vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM plugin for automatic table formatting
+- [vim-dotoo](https://github.com/dhruvasagar/vim-dotoo) - VIM plugin for Org-mode like task management
+- [vim-prosession](https://github.com/dhruvasagar/vim-prosession) - VIM plugin for managing vim sessions
+- [vim-testify](https://github.com/dhruvasagar/vim-testify) - Unit testing for VimScript
+- [dumbhttp](https://github.com/dhruvasagar/dumbhttp) - A Dumb Http Server useful for mocking built using Rust
+- [cursed-timer](https://github.com/dhruvasagar/cursed-timer) - A Rubik Cube Timer TUI application built using Rust
+- [url-mapper](https://github.com/dhruvasagar/url-mapper) - A simple keyword based url mapper built using Golang
+- [url-mapper-rs](https://github.com/dhruvasagar/url-mapper-rs) - A simple keyword based url mapper built using Rust
+- [rpicctv](https://github.com/dhruvasagar/rpicctv) - RPi CCTV camera with Pan & Tilt JSON API built using Golang
+- [tictactoecubed](https://github.com/dhruvasagar/tictactoecubed) A real-time tic tac toe cubed turn based game built using Javascript
+
+|                                                                    Language Stats                                                                    |                                                                  Github Stats                                                                  |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvasagar&langs_count=10&hide_border=true&theme=midnight-purple&layout=compact) | ![](https://github-readme-stats.vercel.app/api?username=dhruvasagar&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true) |
+
+![](https://activity-graph.herokuapp.com/graph?username=dhruvasagar&theme=github-dark&hide_border=true&area=true&color=cecac3)
