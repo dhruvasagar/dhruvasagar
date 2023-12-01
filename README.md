@@ -61,6 +61,7 @@ world.
 
 #### :boom: I'm currently learning :
 
+* [Zig](https://ziglang.org)
 * [Haskell](https://www.haskell.org)
 * [Rust](https://rust-lang.org)
 * [Substrate](https://substrate.io)
