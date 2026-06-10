@@ -28,10 +28,9 @@ I care deeply about **software craftsmanship**: sound architecture, clean abstra
 
 Over two decades I've worked across many layers of the stack. Here's where I spend most of my time today:
 
-**Languages I reach for:** Rust · Haskell · Elixir · Go · TypeScript · Ruby
-**Runtimes & Frameworks:** Node.js · Phoenix · Rails · React
-**Infrastructure:** Linux · PostgreSQL · Redis · Docker · AWS/CloudFront
-**Tooling:** Neovim (daily driver) · Git · TUI tools · Terminal-first workflows
+**Languages I reach for:** Rust · Go · TypeScript · Python · Ruby · Haskell · Elixir
+**Infrastructure:** Linux · PostgreSQL · Redis · Docker · AWS
+**Tooling:** Emacs (daily driver) · (Neo)vim · Git · TUI tools · Terminal-first workflows
 
 I'm currently deepening my work in **Rust** and **Haskell** — languages where the type system does serious work.
 
