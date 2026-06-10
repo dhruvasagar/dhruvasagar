@@ -40,9 +40,9 @@ I'm currently deepening my work in **Rust** and **Haskell** — languages where 
 ## Featured: Lattice
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruvasagar/lattice/main/media/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhruvasagar/lattice/main/media/banner-light.svg">
-  <img src="https://raw.githubusercontent.com/dhruvasagar/lattice/main/media/banner-dark.svg" alt="Lattice — a modal, GPU-accelerated, plugin-first text editor in Rust" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="media/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="media/banner-light.svg">
+  <img src="media/banner-dark.svg" alt="Lattice — a modal, GPU-accelerated, plugin-first text editor in Rust" width="100%">
 </picture>
 
 > **[dhruvasagar/lattice](https://github.com/dhruvasagar/lattice)** — A modal, GPU-accelerated, plugin-first text editor written in Rust.
