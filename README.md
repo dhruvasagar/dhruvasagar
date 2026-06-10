@@ -85,7 +85,7 @@ Search on 200k-line buffer   <2 ms p99    (target: <2 ms)
 
 - I automate relentlessly — if I do something twice, I script it
 - Linux is home; the terminal is where I live
-- I make technical content on YouTube: [youtube.com/@dhruvasagar](https://www.youtube.com/channel/UCWC5C7O-jpJhHW7sSxu-27A) — more in the pipeline
+- I make technical content on YouTube: [youtube.com/@softwarecraftsmanship](https://www.youtube.com/channel/UCWC5C7O-jpJhHW7sSxu-27A) — more in the pipeline
 - Competitive programming enthusiast
 - Pronouns: He/Him
 
