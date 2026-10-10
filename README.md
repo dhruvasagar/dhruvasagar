@@ -46,23 +46,25 @@ I'm currently deepening my work in **Rust** and **Haskell** — languages where 
 
 > **[dhruvasagar/lattice](https://github.com/dhruvasagar/lattice)** — A modal, GPU-accelerated, plugin-first text editor written in Rust.
 
-My most ambitious open-source project. Lattice is not a config layer or a fork — it's a ground-up text editor built on the conviction that the three dominant editors (Vim, Emacs, VS Code) each got *one* thing profoundly right, and that a modern Rust foundation can unify all three without their compromises.
+My most ambitious open-source project, and now a released one: **0.9 is out** as a public alpha. Lattice is not a config layer or a fork — it's a ground-up text editor built on the conviction that Vim and Emacs each got one thing profoundly right, and that a modern Rust foundation can have both without their compromises.
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/dhruvasagar/lattice/main/install.sh | sh
+```
+
+[Install guide](https://dhruvasagar.github.io/lattice/install/) · [Releases](https://github.com/dhruvasagar/lattice/releases) · [Plugins](https://dhruvasagar.github.io/lattice/plugins/) · [Discord](https://discord.gg/qbTW5gP4mz)
 
 **What makes it different:**
 
-- **Vim's modal grammar is the public command API** — not a keymap over a non-modal core. Operators, motions, text objects, counts, registers, macros — all semantically exact. Adding a motion *is* extending the grammar.
-- **Emacs's extensibility model via WebAssembly** — plugins are sandboxed WASM components (any language with Component Model support: Rust, Zig, Go). A misbehaving plugin cannot freeze the editor. WIT is the canonical API today, not aspirationally.
-- **Everything is a buffer, enforced** — file tree, diagnostics, terminal, scratch — all placed via splits. No fixed sidebars or bottom panels. One code path for all buffer kinds.
-- **Sub-frame input latency (<8 ms at 120 Hz)** — the UI thread does *no* I/O, no parsing, no shaping. Asynchrony is architectural, not disciplinary: `RenderState` reads, `ArcSwap` snapshots, one `tokio` task per document. UI-thread blocking is physically impossible by construction.
-- **Compile-time threading guarantees** — the `EditorActorHandle` swap means `&mut Editor` cannot escape the editor thread in production builds. The type system enforces the architecture.
+- **Vim's modal grammar is the public command API** — not a keymap over a non-modal core. Operators, motions, text objects, counts, registers, macros, ex ranges. Adding a motion *is* extending the grammar.
+- **Emacs's extensibility model via WebAssembly** — plugins are sandboxed WASM components, capability-gated and crash-isolated. The API is WIT, so it is not tied to one language, and your config is Rust compiled to WASM. Org-mode ships as a [plugin](https://github.com/dhruvasagar/lattice-org-plugin) with not a line in the editor's tree.
+- **Everything is a buffer, enforced** — file tree, search results, diagnostics, terminal, build output — all placed via splits. No fixed sidebars or bottom panels. One code path for all buffer kinds.
+- **Nothing blocks the UI, by construction** — the UI thread does no I/O, no parsing, no shaping. The bar is a keystroke landing within one display frame under any background load, and CI ratchets the measured latency.
+- **Two first-class renderers** — a terminal UI for SSH and a GPU-rendered window, over the same core. Neither is the fallback.
 
-**Where it stands:** 1,000+ commits, 20 crates, Phases 0–5 structurally complete (foundation → modal engine → TUI → tree-sitter → LSP → GPU rendering). Phase 7 (WASM plugin host) is next. Backed by a [2,300-line design spec](https://github.com/dhruvasagar/lattice/blob/main/docs/dev/architecture/design.md), CI-tracked performance benchmarks, and ~1,115 tests.
+**What works today:** the Vim grammar, LSP (completion, diagnostics, hover, rename, references, inlay hints, code actions), tree-sitter for 20 languages, a real magit port (stage by hunk, commit, rebase, blame, log), a compilation buffer with jump-to-error, and coding agents as buffers (Claude Code over MCP, ACP conversations with diff review).
 
-```
-Keystroke → buffer mutation  ~83 µs p99   (target: <100 µs)
-Reflex motion / operator     <2 ms p99    (target: <2 ms)
-Search on 200k-line buffer   <2 ms p99    (target: <2 ms)
-```
+**Where it stands:** 3,700+ commits across 41 crates, backed by a [design spec](https://github.com/dhruvasagar/lattice/blob/main/docs/dev/architecture/design.md) and CI-tracked performance benchmarks. It is an alpha: the editing is solid, the distribution is new — [known limitations](https://dhruvasagar.github.io/lattice/docs/start/known-limitations/) are listed honestly.
 
 ---
 
